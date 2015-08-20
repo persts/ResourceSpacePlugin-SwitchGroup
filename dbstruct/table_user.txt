@@ -1,0 +1,1 @@
+switch_group_usergroups,varchar(255),YES,,,

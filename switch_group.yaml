@@ -1,0 +1,4 @@
+name: switch_group
+author: Peter Ersts
+version: 0.1
+desc: Allows users to switch between a custom set of user groups.
