@@ -1,5 +1,5 @@
 To install this plugin:
-->> Extract the contents of the zip file and rename the folder: switch_group 
+->> Clone repo or extract the contents of the zip file to a folder named: switch_group 
 ->> Copy the switch_group folder into the ResourceSpace plugins directory
 ->> Use the new plugins manager to activate the switch_group plugin
 
