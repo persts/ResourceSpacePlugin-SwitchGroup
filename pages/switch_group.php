@@ -33,7 +33,7 @@ You have successfully switched to group: <?php echo getvalescaped("group","0"); 
 ?>
 
 <div>
-Sorry...Group [ <?php echo getvalescaped("group","0"); ?> ] is not a valid user group.
+Sorry...Group [ <?php echo getvalescaped("group","0"); ?> ] is not a valid user group or you do not have access to it.
 </div>
 
 <?php
